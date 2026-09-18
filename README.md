@@ -34,10 +34,7 @@ I'm interested in Data Analytics, Programming, and Problem Solving. I enjoy work
 - Python for Data Analytics
 - Data Analysis Projects
 
-📫 Connect With Me
 
-- GitHub: "Your GitHub Profile" (https://github.com/)
-- LinkedIn: "Your LinkedIn Profile" (https://linkedin.com/)
 
 ---
 
